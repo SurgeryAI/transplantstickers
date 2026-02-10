@@ -4,7 +4,7 @@ An iMessage sticker pack promoting organ donation awareness and supporting the t
 
 ## Overview
 
-This sticker pack includes 37 unique stickers featuring:
+This sticker pack includes 27 unique stickers featuring:
 - **Anatomical organs**: Heart, kidneys, liver, lungs, and pancreas
 - **Donation themes**: Living donation, paired kidney exchange, and organ donation awareness
 - **Educational messages**: "Register to be an Organ Donor", "Organ Donation Saves Lives", "Save a Life"
@@ -43,8 +43,6 @@ The sticker pack includes the following categories:
 - Liver
 - Lungs
 - Pancreas
-- Intestine
-- Cornea (eye donation)
 - Multiple organs
 
 ### Donation & Transplant
@@ -55,14 +53,11 @@ The sticker pack includes the following categories:
 - Transplanted liver (with ribbon)
 - Living liver transplant
 - Transplanted lungs (with ribbon)
-- Transplanted pancreas (with ribbon)
 
 ### Educational & Awareness
 - "Register to be an Organ Donor"
 - "Organ Donation Saves Lives"
 - "Save a Life"
-- "Thank You Donor"
-- "Second Chance at Life"
 - Donate Life ribbon
 
 ### Symbolic
@@ -71,14 +66,7 @@ The sticker pack includes the following categories:
 - Hands holding kidney
 - Hand holding liver
 - Hand holding lungs
-- Hand holding pancreas
 - Scalpel (medical symbol)
-
-### Celebration & Support
-- Transplant anniversary celebration
-- Living donor hero (star with kidney)
-- Community support (hands in circle)
-- Heart with pulse line (monitoring/care)
 
 ## Building for Distribution
 
@@ -94,10 +82,10 @@ To prepare the sticker pack for App Store submission:
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Ideas for Future Stickers
-- Additional tissue donation types (bone, skin)
+- Additional organ types (intestines, corneas)
 - Animated stickers
-- Multi-organ transplant awareness
-- Support stickers for families and caregivers
+- Celebration stickers for transplant anniversaries
+- Support stickers for caregivers
 
 ## License
 
