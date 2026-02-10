@@ -1,0 +1,92 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "large"
+  },
+  "stickers" : [
+    {
+      "filename" : "organs.sticker"
+    },
+    {
+      "filename" : "kidneyDonation.sticker"
+    },
+    {
+      "filename" : "rightKidney.sticker"
+    },
+    {
+      "filename" : "leftkidney.sticker"
+    },
+    {
+      "filename" : "handsKidney.sticker"
+    },
+    {
+      "filename" : "handKidney.sticker"
+    },
+    {
+      "filename" : "pairedKidneyDonation.sticker"
+    },
+    {
+      "filename" : "kidneyTransplanted.sticker"
+    },
+    {
+      "filename" : "saveAlife.sticker"
+    },
+    {
+      "filename" : "liver.sticker"
+    },
+    {
+      "filename" : "handLiver.sticker"
+    },
+    {
+      "filename" : "liverTransplanted.sticker"
+    },
+    {
+      "filename" : "livingLiverTransplanted.sticker"
+    },
+    {
+      "filename" : "pancreas.sticker"
+    },
+    {
+      "filename" : "heart.sticker"
+    },
+    {
+      "filename" : "handHeart.sticker"
+    },
+    {
+      "filename" : "heartTransplanted.sticker"
+    },
+    {
+      "filename" : "lungsTransplanted.sticker"
+    },
+    {
+      "filename" : "handLungs.sticker"
+    },
+    {
+      "filename" : "lungs.sticker"
+    },
+    {
+      "filename" : "scalpel.sticker"
+    },
+    {
+      "filename" : "donate1.sticker"
+    },
+    {
+      "filename" : "organDonationSavesLives.sticker"
+    },
+    {
+      "filename" : "register.sticker"
+    },
+    {
+      "filename" : "circle.sticker"
+    },
+    {
+      "filename" : "Gemini_Generated_Image_aos49haos49haos4.sticker"
+    },
+    {
+      "filename" : "Gemini_Generated_Image_aos49haos49haos4 (1) 1.sticker"
+    }
+  ]
+}

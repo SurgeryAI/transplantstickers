@@ -3,13 +3,13 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		90C805AA1FB415C1009A763C /* transplantstickers StickerPackExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 90C805A91FB415C1009A763C /* transplantstickers StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		90C805AE1FB415C1009A763C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 90C805AD1FB415C1009A763C /* Stickers.xcstickers */; };
-		90C805AF1FB415C1009A763C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 90C805AD1FB415C1009A763C /* Stickers.xcstickers */; };
+		907E90491FB434D200C23B68 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 90C805B91FB415E2009A763C /* Stickers.xcstickers */; };
+		90C805AA1FB415C1009A763C /* transplantstickers StickerPackExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 90C805A91FB415C1009A763C /* transplantstickers StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		90C805BA1FB415E2009A763C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 90C805B91FB415E2009A763C /* Stickers.xcstickers */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,15 +23,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		90C805B51FB415C1009A763C /* Embed App Extensions */ = {
+		90C805B51FB415C1009A763C /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				90C805AA1FB415C1009A763C /* transplantstickers StickerPackExtension.appex in Embed App Extensions */,
+				90C805AA1FB415C1009A763C /* transplantstickers StickerPackExtension.appex in Embed Foundation Extensions */,
 			);
-			name = "Embed App Extensions";
+			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
@@ -39,14 +39,14 @@
 /* Begin PBXFileReference section */
 		90C805A51FB415C0009A763C /* transplantstickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = transplantstickers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90C805A91FB415C1009A763C /* transplantstickers StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "transplantstickers StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		90C805AD1FB415C1009A763C /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "transplantstickers StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
+		90C805B91FB415E2009A763C /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; path = Stickers.xcstickers; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		90C8059E1FB415C0009A763C = {
 			isa = PBXGroup;
 			children = (
-				90C805AD1FB415C1009A763C /* Stickers.xcstickers */,
+				90C805B91FB415E2009A763C /* Stickers.xcstickers */,
 				90C805A61FB415C0009A763C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -68,7 +68,7 @@
 			buildConfigurationList = 90C805B61FB415C1009A763C /* Build configuration list for PBXNativeTarget "transplantstickers" */;
 			buildPhases = (
 				90C805A31FB415C0009A763C /* Resources */,
-				90C805B51FB415C1009A763C /* Embed App Extensions */,
+				90C805B51FB415C1009A763C /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
@@ -101,7 +101,8 @@
 		90C8059F1FB415C0009A763C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0910;
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1640;
 				ORGANIZATIONNAME = "Marc Melcher";
 				TargetAttributes = {
 					90C805A41FB415C0009A763C = {
@@ -120,6 +121,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 90C8059E1FB415C0009A763C;
 			productRefGroup = 90C805A61FB415C0009A763C /* Products */;
@@ -137,7 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90C805AF1FB415C1009A763C /* Stickers.xcstickers in Resources */,
+				90C805BA1FB415E2009A763C /* Stickers.xcstickers in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,7 +147,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90C805AE1FB415C1009A763C /* Stickers.xcstickers in Resources */,
+				907E90491FB434D200C23B68 /* Stickers.xcstickers in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -164,6 +166,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -174,6 +177,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -181,8 +185,10 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -192,8 +198,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = C3U5S48E88;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -208,7 +216,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -219,6 +227,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -229,6 +238,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -236,8 +246,10 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -247,8 +259,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = C3U5S48E88;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -257,7 +271,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -269,7 +283,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C3U5S48E88;
+				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = "transplantstickers StickerPackExtension/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -283,7 +297,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C3U5S48E88;
+				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = "transplantstickers StickerPackExtension/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -297,8 +311,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C3U5S48E88;
+				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = transplantstickers/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				MARKETING_VERSION = 1.02;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,8 +326,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = C3U5S48E88;
+				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = transplantstickers/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				MARKETING_VERSION = 1.02;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
