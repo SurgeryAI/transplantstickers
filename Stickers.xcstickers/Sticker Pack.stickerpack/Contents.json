@@ -1,92 +1,137 @@
 {
-  "info" : {
-    "author" : "xcode",
-    "version" : 1
+  "info": {
+    "author": "xcode",
+    "version": 1
   },
-  "properties" : {
-    "grid-size" : "large"
+  "properties": {
+    "grid-size": "large"
   },
-  "stickers" : [
+  "stickers": [
     {
-      "filename" : "organs.sticker"
+      "filename": "organs.sticker"
     },
     {
-      "filename" : "kidneyDonation.sticker"
+      "filename": "kidneyDonation.sticker"
     },
     {
-      "filename" : "rightKidney.sticker"
+      "filename": "rightKidney.sticker"
     },
     {
-      "filename" : "leftkidney.sticker"
+      "filename": "leftkidney.sticker"
     },
     {
-      "filename" : "handsKidney.sticker"
+      "filename": "handsKidney.sticker"
     },
     {
-      "filename" : "handKidney.sticker"
+      "filename": "handKidney.sticker"
     },
     {
-      "filename" : "pairedKidneyDonation.sticker"
+      "filename": "pairedKidneyDonation.sticker"
     },
     {
-      "filename" : "kidneyTransplanted.sticker"
+      "filename": "kidneyTransplanted.sticker"
     },
     {
-      "filename" : "saveAlife.sticker"
+      "filename": "saveAlife.sticker"
     },
     {
-      "filename" : "liver.sticker"
+      "filename": "liver.sticker"
     },
     {
-      "filename" : "handLiver.sticker"
+      "filename": "handLiver.sticker"
     },
     {
-      "filename" : "liverTransplanted.sticker"
+      "filename": "liverTransplanted.sticker"
     },
     {
-      "filename" : "livingLiverTransplanted.sticker"
+      "filename": "livingLiverTransplanted.sticker"
     },
     {
-      "filename" : "pancreas.sticker"
+      "filename": "pancreas.sticker"
     },
     {
-      "filename" : "heart.sticker"
+      "filename": "heart.sticker"
     },
     {
-      "filename" : "handHeart.sticker"
+      "filename": "handHeart.sticker"
     },
     {
-      "filename" : "heartTransplanted.sticker"
+      "filename": "heartTransplanted.sticker"
     },
     {
-      "filename" : "lungsTransplanted.sticker"
+      "filename": "lungsTransplanted.sticker"
     },
     {
-      "filename" : "handLungs.sticker"
+      "filename": "handLungs.sticker"
     },
     {
-      "filename" : "lungs.sticker"
+      "filename": "lungs.sticker"
     },
     {
-      "filename" : "scalpel.sticker"
+      "filename": "scalpel.sticker"
     },
     {
-      "filename" : "donate1.sticker"
+      "filename": "donate1.sticker"
     },
     {
-      "filename" : "organDonationSavesLives.sticker"
+      "filename": "organDonationSavesLives.sticker"
     },
     {
-      "filename" : "register.sticker"
+      "filename": "register.sticker"
     },
     {
-      "filename" : "circle.sticker"
+      "filename": "circle.sticker"
     },
     {
-      "filename" : "organsTeam.sticker"
+      "filename": "organsTeam.sticker"
     },
     {
-      "filename" : "teamwork.sticker"
+      "filename": "teamwork.sticker"
+    },
+    {
+      "filename": "thankYouDonor.sticker"
+    },
+    {
+      "filename": "giftOfLife.sticker"
+    },
+    {
+      "filename": "foreverGrateful.sticker"
+    },
+    {
+      "filename": "kidneyHero.sticker"
+    },
+    {
+      "filename": "secondChance.sticker"
+    },
+    {
+      "filename": "liverLife.sticker"
+    },
+    {
+      "filename": "strongLiver.sticker"
+    },
+    {
+      "filename": "splitLiver.sticker"
+    },
+    {
+      "filename": "perfectMatch.sticker"
+    },
+    {
+      "filename": "shareYourSpare.sticker"
+    },
+    {
+      "filename": "kidneyWarrior.sticker"
+    },
+    {
+      "filename": "newBeat.sticker"
+    },
+    {
+      "filename": "heartStrong.sticker"
+    },
+    {
+      "filename": "transplantSurvivor.sticker"
+    },
+    {
+      "filename": "hopeRibbon.sticker"
     }
   ]
 }
