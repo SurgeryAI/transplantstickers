@@ -283,7 +283,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = "transplantstickers StickerPackExtension/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -297,7 +297,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = "transplantstickers StickerPackExtension/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -314,7 +314,7 @@
 				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = transplantstickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
-				MARKETING_VERSION = 1.02;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -329,7 +329,7 @@
 				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = transplantstickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
-				MARKETING_VERSION = 1.02;
+				MARKETING_VERSION = 1.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
