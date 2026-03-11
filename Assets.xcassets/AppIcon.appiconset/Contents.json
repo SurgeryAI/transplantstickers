@@ -107,8 +107,8 @@
     },
     {
       "filename" : "icon-ios-1024x1024.png",
-      "idiom" : "universal",
-      "platform" : "ios",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
       "size" : "1024x1024"
     },
     {
