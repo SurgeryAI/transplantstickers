@@ -45,6 +45,7 @@
     {
       "filename": "TStickers-iOS-Default-1024x1024@1x.png",
       "idiom": "ios-marketing",
+      "platform": "ios",
       "scale": "1x",
       "size": "1024x1024"
     },
