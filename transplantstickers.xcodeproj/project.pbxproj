@@ -10,6 +10,64 @@
 		907E90491FB434D200C23B68 /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 90C805B91FB415E2009A763C /* Stickers.xcstickers */; };
 		90C805AA1FB415C1009A763C /* transplantstickers StickerPackExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 90C805A91FB415C1009A763C /* transplantstickers StickerPackExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		90C805BA1FB415E2009A763C /* Stickers.xcstickers in Resources */ = {isa = PBXBuildFile; fileRef = 90C805B91FB415E2009A763C /* Stickers.xcstickers */; };
+		FD78A2292F60C57C00473C99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2282F60C57C00473C99 /* Assets.xcassets */; };
+		FD78A22A2F60C57C00473C99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2282F60C57C00473C99 /* Assets.xcassets */; };
+		FD78A2412F60CC4600473C99 /* icon-ipad-74x55@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23B2F60CC4600473C99 /* icon-ipad-74x55@2x.png */; };
+		FD78A2422F60CC4600473C99 /* icon-ios-1024x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2372F60CC4600473C99 /* icon-ios-1024x768.png */; };
+		FD78A2432F60CC4600473C99 /* icon-ios-marketing-1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2382F60CC4600473C99 /* icon-ios-marketing-1024x1024.png */; };
+		FD78A2442F60CC4600473C99 /* icon-iphone-60x45@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23E2F60CC4600473C99 /* icon-iphone-60x45@2x.png */; };
+		FD78A2452F60CC4600473C99 /* icon-ios-32x24@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2362F60CC4600473C99 /* icon-ios-32x24@3x.png */; };
+		FD78A2462F60CC4600473C99 /* icon-ios-27x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2342F60CC4600473C99 /* icon-ios-27x20@3x.png */; };
+		FD78A2472F60CC4600473C99 /* icon-iphone-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23D2F60CC4600473C99 /* icon-iphone-29x29@3x.png */; };
+		FD78A2482F60CC4600473C99 /* icon-ipad-67x50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23A2F60CC4600473C99 /* icon-ipad-67x50@2x.png */; };
+		FD78A2492F60CC4600473C99 /* icon-ios-32x24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2352F60CC4600473C99 /* icon-ios-32x24@2x.png */; };
+		FD78A24A2F60CC4600473C99 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2322F60CC4600473C99 /* Contents.json */; };
+		FD78A24B2F60CC4600473C99 /* icon-iphone-60x45@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23F2F60CC4600473C99 /* icon-iphone-60x45@3x.png */; };
+		FD78A24C2F60CC4600473C99 /* icon-ios-27x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2332F60CC4600473C99 /* icon-ios-27x20@2x.png */; };
+		FD78A24D2F60CC4600473C99 /* icon-ipad-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2392F60CC4600473C99 /* icon-ipad-29x29@2x.png */; };
+		FD78A24E2F60CC4600473C99 /* icon-iphone-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23C2F60CC4600473C99 /* icon-iphone-29x29@2x.png */; };
+		FD78A24F2F60CC4600473C99 /* icon-ipad-74x55@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23B2F60CC4600473C99 /* icon-ipad-74x55@2x.png */; };
+		FD78A2502F60CC4600473C99 /* icon-ios-1024x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2372F60CC4600473C99 /* icon-ios-1024x768.png */; };
+		FD78A2512F60CC4600473C99 /* icon-ios-marketing-1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2382F60CC4600473C99 /* icon-ios-marketing-1024x1024.png */; };
+		FD78A2522F60CC4600473C99 /* icon-iphone-60x45@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23E2F60CC4600473C99 /* icon-iphone-60x45@2x.png */; };
+		FD78A2532F60CC4600473C99 /* icon-ios-32x24@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2362F60CC4600473C99 /* icon-ios-32x24@3x.png */; };
+		FD78A2542F60CC4600473C99 /* icon-ios-27x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2342F60CC4600473C99 /* icon-ios-27x20@3x.png */; };
+		FD78A2552F60CC4600473C99 /* icon-iphone-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23D2F60CC4600473C99 /* icon-iphone-29x29@3x.png */; };
+		FD78A2562F60CC4600473C99 /* icon-ipad-67x50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23A2F60CC4600473C99 /* icon-ipad-67x50@2x.png */; };
+		FD78A2572F60CC4600473C99 /* icon-ios-32x24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2352F60CC4600473C99 /* icon-ios-32x24@2x.png */; };
+		FD78A2582F60CC4600473C99 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2322F60CC4600473C99 /* Contents.json */; };
+		FD78A2592F60CC4600473C99 /* icon-iphone-60x45@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23F2F60CC4600473C99 /* icon-iphone-60x45@3x.png */; };
+		FD78A25A2F60CC4600473C99 /* icon-ios-27x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2332F60CC4600473C99 /* icon-ios-27x20@2x.png */; };
+		FD78A25B2F60CC4600473C99 /* icon-ipad-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2392F60CC4600473C99 /* icon-ipad-29x29@2x.png */; };
+		FD78A25C2F60CC4600473C99 /* icon-iphone-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A23C2F60CC4600473C99 /* icon-iphone-29x29@2x.png */; };
+		FD78A26C2F611CE000473C99 /* icon-iphone-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2672F611CE000473C99 /* icon-iphone-29x29@2x.png */; };
+		FD78A26D2F611CE000473C99 /* icon-ipad-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2642F611CE000473C99 /* icon-ipad-29x29@2x.png */; };
+		FD78A26E2F611CE000473C99 /* icon-ios-27x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A25E2F611CE000473C99 /* icon-ios-27x20@2x.png */; };
+		FD78A26F2F611CE000473C99 /* icon-ipad-74x55@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2662F611CE000473C99 /* icon-ipad-74x55@2x.png */; };
+		FD78A2702F611CE000473C99 /* icon-ios-1024x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2622F611CE000473C99 /* icon-ios-1024x768.png */; };
+		FD78A2712F611CE000473C99 /* icon-ios-marketing-1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2632F611CE000473C99 /* icon-ios-marketing-1024x1024.png */; };
+		FD78A2722F611CE000473C99 /* icon-iphone-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2682F611CE000473C99 /* icon-iphone-29x29@3x.png */; };
+		FD78A2732F611CE000473C99 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = FD78A25D2F611CE000473C99 /* Contents.json */; };
+		FD78A2742F611CE000473C99 /* icon-iphone-60x45@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A26A2F611CE000473C99 /* icon-iphone-60x45@3x.png */; };
+		FD78A2752F611CE000473C99 /* icon-ios-32x24@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2612F611CE000473C99 /* icon-ios-32x24@3x.png */; };
+		FD78A2762F611CE000473C99 /* icon-ios-27x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A25F2F611CE000473C99 /* icon-ios-27x20@3x.png */; };
+		FD78A2772F611CE000473C99 /* icon-iphone-60x45@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2692F611CE000473C99 /* icon-iphone-60x45@2x.png */; };
+		FD78A2782F611CE000473C99 /* icon-ipad-67x50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2652F611CE000473C99 /* icon-ipad-67x50@2x.png */; };
+		FD78A2792F611CE000473C99 /* icon-ios-32x24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2602F611CE000473C99 /* icon-ios-32x24@2x.png */; };
+		FD78A27A2F611CE000473C99 /* icon-iphone-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2672F611CE000473C99 /* icon-iphone-29x29@2x.png */; };
+		FD78A27B2F611CE000473C99 /* icon-ipad-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2642F611CE000473C99 /* icon-ipad-29x29@2x.png */; };
+		FD78A27C2F611CE000473C99 /* icon-ios-27x20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A25E2F611CE000473C99 /* icon-ios-27x20@2x.png */; };
+		FD78A27D2F611CE000473C99 /* icon-ipad-74x55@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2662F611CE000473C99 /* icon-ipad-74x55@2x.png */; };
+		FD78A27E2F611CE000473C99 /* icon-ios-1024x768.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2622F611CE000473C99 /* icon-ios-1024x768.png */; };
+		FD78A27F2F611CE000473C99 /* icon-ios-marketing-1024x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2632F611CE000473C99 /* icon-ios-marketing-1024x1024.png */; };
+		FD78A2802F611CE000473C99 /* icon-iphone-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2682F611CE000473C99 /* icon-iphone-29x29@3x.png */; };
+		FD78A2812F611CE000473C99 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = FD78A25D2F611CE000473C99 /* Contents.json */; };
+		FD78A2822F611CE000473C99 /* icon-iphone-60x45@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A26A2F611CE000473C99 /* icon-iphone-60x45@3x.png */; };
+		FD78A2832F611CE000473C99 /* icon-ios-32x24@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2612F611CE000473C99 /* icon-ios-32x24@3x.png */; };
+		FD78A2842F611CE000473C99 /* icon-ios-27x20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A25F2F611CE000473C99 /* icon-ios-27x20@3x.png */; };
+		FD78A2852F611CE000473C99 /* icon-iphone-60x45@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2692F611CE000473C99 /* icon-iphone-60x45@2x.png */; };
+		FD78A2862F611CE000473C99 /* icon-ipad-67x50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2652F611CE000473C99 /* icon-ipad-67x50@2x.png */; };
+		FD78A2872F611CE000473C99 /* icon-ios-32x24@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FD78A2602F611CE000473C99 /* icon-ios-32x24@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,12 +98,44 @@
 		90C805A51FB415C0009A763C /* transplantstickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = transplantstickers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90C805A91FB415C1009A763C /* transplantstickers StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "transplantstickers StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90C805B91FB415E2009A763C /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; path = Stickers.xcstickers; sourceTree = "<group>"; };
+		FD78A2282F60C57C00473C99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FD78A2322F60CC4600473C99 /* Contents.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		FD78A2332F60CC4600473C99 /* icon-ios-27x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-27x20@2x.png"; sourceTree = "<group>"; };
+		FD78A2342F60CC4600473C99 /* icon-ios-27x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-27x20@3x.png"; sourceTree = "<group>"; };
+		FD78A2352F60CC4600473C99 /* icon-ios-32x24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-32x24@2x.png"; sourceTree = "<group>"; };
+		FD78A2362F60CC4600473C99 /* icon-ios-32x24@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-32x24@3x.png"; sourceTree = "<group>"; };
+		FD78A2372F60CC4600473C99 /* icon-ios-1024x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-1024x768.png"; sourceTree = "<group>"; };
+		FD78A2382F60CC4600473C99 /* icon-ios-marketing-1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-marketing-1024x1024.png"; sourceTree = "<group>"; };
+		FD78A2392F60CC4600473C99 /* icon-ipad-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ipad-29x29@2x.png"; sourceTree = "<group>"; };
+		FD78A23A2F60CC4600473C99 /* icon-ipad-67x50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ipad-67x50@2x.png"; sourceTree = "<group>"; };
+		FD78A23B2F60CC4600473C99 /* icon-ipad-74x55@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ipad-74x55@2x.png"; sourceTree = "<group>"; };
+		FD78A23C2F60CC4600473C99 /* icon-iphone-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-29x29@2x.png"; sourceTree = "<group>"; };
+		FD78A23D2F60CC4600473C99 /* icon-iphone-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-29x29@3x.png"; sourceTree = "<group>"; };
+		FD78A23E2F60CC4600473C99 /* icon-iphone-60x45@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-60x45@2x.png"; sourceTree = "<group>"; };
+		FD78A23F2F60CC4600473C99 /* icon-iphone-60x45@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-60x45@3x.png"; sourceTree = "<group>"; };
+		FD78A25D2F611CE000473C99 /* Contents.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		FD78A25E2F611CE000473C99 /* icon-ios-27x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-27x20@2x.png"; sourceTree = "<group>"; };
+		FD78A25F2F611CE000473C99 /* icon-ios-27x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-27x20@3x.png"; sourceTree = "<group>"; };
+		FD78A2602F611CE000473C99 /* icon-ios-32x24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-32x24@2x.png"; sourceTree = "<group>"; };
+		FD78A2612F611CE000473C99 /* icon-ios-32x24@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-32x24@3x.png"; sourceTree = "<group>"; };
+		FD78A2622F611CE000473C99 /* icon-ios-1024x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-1024x768.png"; sourceTree = "<group>"; };
+		FD78A2632F611CE000473C99 /* icon-ios-marketing-1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ios-marketing-1024x1024.png"; sourceTree = "<group>"; };
+		FD78A2642F611CE000473C99 /* icon-ipad-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ipad-29x29@2x.png"; sourceTree = "<group>"; };
+		FD78A2652F611CE000473C99 /* icon-ipad-67x50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ipad-67x50@2x.png"; sourceTree = "<group>"; };
+		FD78A2662F611CE000473C99 /* icon-ipad-74x55@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ipad-74x55@2x.png"; sourceTree = "<group>"; };
+		FD78A2672F611CE000473C99 /* icon-iphone-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-29x29@2x.png"; sourceTree = "<group>"; };
+		FD78A2682F611CE000473C99 /* icon-iphone-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-29x29@3x.png"; sourceTree = "<group>"; };
+		FD78A2692F611CE000473C99 /* icon-iphone-60x45@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-60x45@2x.png"; sourceTree = "<group>"; };
+		FD78A26A2F611CE000473C99 /* icon-iphone-60x45@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-iphone-60x45@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		90C8059E1FB415C0009A763C = {
 			isa = PBXGroup;
 			children = (
+				FD78A2282F60C57C00473C99 /* Assets.xcassets */,
+				FD78A26B2F611CE000473C99 /* Messages Icon.stickersiconset */,
+				FD78A2402F60CC4600473C99 /* Messages Icon.stickersiconset */,
 				90C805B91FB415E2009A763C /* Stickers.xcstickers */,
 				90C805A61FB415C0009A763C /* Products */,
 			);
@@ -58,6 +148,48 @@
 				90C805A91FB415C1009A763C /* transplantstickers StickerPackExtension.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		FD78A2402F60CC4600473C99 /* Messages Icon.stickersiconset */ = {
+			isa = PBXGroup;
+			children = (
+				FD78A2322F60CC4600473C99 /* Contents.json */,
+				FD78A2332F60CC4600473C99 /* icon-ios-27x20@2x.png */,
+				FD78A2342F60CC4600473C99 /* icon-ios-27x20@3x.png */,
+				FD78A2352F60CC4600473C99 /* icon-ios-32x24@2x.png */,
+				FD78A2362F60CC4600473C99 /* icon-ios-32x24@3x.png */,
+				FD78A2372F60CC4600473C99 /* icon-ios-1024x768.png */,
+				FD78A2382F60CC4600473C99 /* icon-ios-marketing-1024x1024.png */,
+				FD78A2392F60CC4600473C99 /* icon-ipad-29x29@2x.png */,
+				FD78A23A2F60CC4600473C99 /* icon-ipad-67x50@2x.png */,
+				FD78A23B2F60CC4600473C99 /* icon-ipad-74x55@2x.png */,
+				FD78A23C2F60CC4600473C99 /* icon-iphone-29x29@2x.png */,
+				FD78A23D2F60CC4600473C99 /* icon-iphone-29x29@3x.png */,
+				FD78A23E2F60CC4600473C99 /* icon-iphone-60x45@2x.png */,
+				FD78A23F2F60CC4600473C99 /* icon-iphone-60x45@3x.png */,
+			);
+			path = "Messages Icon.stickersiconset";
+			sourceTree = "<group>";
+		};
+		FD78A26B2F611CE000473C99 /* Messages Icon.stickersiconset */ = {
+			isa = PBXGroup;
+			children = (
+				FD78A25D2F611CE000473C99 /* Contents.json */,
+				FD78A25E2F611CE000473C99 /* icon-ios-27x20@2x.png */,
+				FD78A25F2F611CE000473C99 /* icon-ios-27x20@3x.png */,
+				FD78A2602F611CE000473C99 /* icon-ios-32x24@2x.png */,
+				FD78A2612F611CE000473C99 /* icon-ios-32x24@3x.png */,
+				FD78A2622F611CE000473C99 /* icon-ios-1024x768.png */,
+				FD78A2632F611CE000473C99 /* icon-ios-marketing-1024x1024.png */,
+				FD78A2642F611CE000473C99 /* icon-ipad-29x29@2x.png */,
+				FD78A2652F611CE000473C99 /* icon-ipad-67x50@2x.png */,
+				FD78A2662F611CE000473C99 /* icon-ipad-74x55@2x.png */,
+				FD78A2672F611CE000473C99 /* icon-iphone-29x29@2x.png */,
+				FD78A2682F611CE000473C99 /* icon-iphone-29x29@3x.png */,
+				FD78A2692F611CE000473C99 /* icon-iphone-60x45@2x.png */,
+				FD78A26A2F611CE000473C99 /* icon-iphone-60x45@3x.png */,
+			);
+			path = "Messages Icon.stickersiconset";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -107,10 +239,12 @@
 				TargetAttributes = {
 					90C805A41FB415C0009A763C = {
 						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 2630;
 						ProvisioningStyle = Automatic;
 					};
 					90C805A81FB415C1009A763C = {
 						CreatedOnToolsVersion = 9.1;
+						LastSwiftMigration = 2630;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -139,7 +273,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD78A22A2F60C57C00473C99 /* Assets.xcassets in Resources */,
+				FD78A26C2F611CE000473C99 /* icon-iphone-29x29@2x.png in Resources */,
+				FD78A26D2F611CE000473C99 /* icon-ipad-29x29@2x.png in Resources */,
+				FD78A26E2F611CE000473C99 /* icon-ios-27x20@2x.png in Resources */,
+				FD78A26F2F611CE000473C99 /* icon-ipad-74x55@2x.png in Resources */,
+				FD78A2702F611CE000473C99 /* icon-ios-1024x768.png in Resources */,
+				FD78A2712F611CE000473C99 /* icon-ios-marketing-1024x1024.png in Resources */,
+				FD78A2722F611CE000473C99 /* icon-iphone-29x29@3x.png in Resources */,
+				FD78A2732F611CE000473C99 /* Contents.json in Resources */,
+				FD78A2742F611CE000473C99 /* icon-iphone-60x45@3x.png in Resources */,
+				FD78A2752F611CE000473C99 /* icon-ios-32x24@3x.png in Resources */,
+				FD78A2762F611CE000473C99 /* icon-ios-27x20@3x.png in Resources */,
+				FD78A2772F611CE000473C99 /* icon-iphone-60x45@2x.png in Resources */,
+				FD78A2782F611CE000473C99 /* icon-ipad-67x50@2x.png in Resources */,
+				FD78A2792F611CE000473C99 /* icon-ios-32x24@2x.png in Resources */,
 				90C805BA1FB415E2009A763C /* Stickers.xcstickers in Resources */,
+				FD78A2412F60CC4600473C99 /* icon-ipad-74x55@2x.png in Resources */,
+				FD78A2422F60CC4600473C99 /* icon-ios-1024x768.png in Resources */,
+				FD78A2432F60CC4600473C99 /* icon-ios-marketing-1024x1024.png in Resources */,
+				FD78A2442F60CC4600473C99 /* icon-iphone-60x45@2x.png in Resources */,
+				FD78A2452F60CC4600473C99 /* icon-ios-32x24@3x.png in Resources */,
+				FD78A2462F60CC4600473C99 /* icon-ios-27x20@3x.png in Resources */,
+				FD78A2472F60CC4600473C99 /* icon-iphone-29x29@3x.png in Resources */,
+				FD78A2482F60CC4600473C99 /* icon-ipad-67x50@2x.png in Resources */,
+				FD78A2492F60CC4600473C99 /* icon-ios-32x24@2x.png in Resources */,
+				FD78A24A2F60CC4600473C99 /* Contents.json in Resources */,
+				FD78A24B2F60CC4600473C99 /* icon-iphone-60x45@3x.png in Resources */,
+				FD78A24C2F60CC4600473C99 /* icon-ios-27x20@2x.png in Resources */,
+				FD78A24D2F60CC4600473C99 /* icon-ipad-29x29@2x.png in Resources */,
+				FD78A24E2F60CC4600473C99 /* icon-iphone-29x29@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -147,7 +310,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD78A2292F60C57C00473C99 /* Assets.xcassets in Resources */,
+				FD78A27A2F611CE000473C99 /* icon-iphone-29x29@2x.png in Resources */,
+				FD78A27B2F611CE000473C99 /* icon-ipad-29x29@2x.png in Resources */,
+				FD78A27C2F611CE000473C99 /* icon-ios-27x20@2x.png in Resources */,
+				FD78A27D2F611CE000473C99 /* icon-ipad-74x55@2x.png in Resources */,
+				FD78A27E2F611CE000473C99 /* icon-ios-1024x768.png in Resources */,
+				FD78A27F2F611CE000473C99 /* icon-ios-marketing-1024x1024.png in Resources */,
+				FD78A2802F611CE000473C99 /* icon-iphone-29x29@3x.png in Resources */,
+				FD78A2812F611CE000473C99 /* Contents.json in Resources */,
+				FD78A2822F611CE000473C99 /* icon-iphone-60x45@3x.png in Resources */,
+				FD78A2832F611CE000473C99 /* icon-ios-32x24@3x.png in Resources */,
+				FD78A2842F611CE000473C99 /* icon-ios-27x20@3x.png in Resources */,
+				FD78A2852F611CE000473C99 /* icon-iphone-60x45@2x.png in Resources */,
+				FD78A2862F611CE000473C99 /* icon-ipad-67x50@2x.png in Resources */,
+				FD78A2872F611CE000473C99 /* icon-ios-32x24@2x.png in Resources */,
 				907E90491FB434D200C23B68 /* Stickers.xcstickers in Resources */,
+				FD78A24F2F60CC4600473C99 /* icon-ipad-74x55@2x.png in Resources */,
+				FD78A2502F60CC4600473C99 /* icon-ios-1024x768.png in Resources */,
+				FD78A2512F60CC4600473C99 /* icon-ios-marketing-1024x1024.png in Resources */,
+				FD78A2522F60CC4600473C99 /* icon-iphone-60x45@2x.png in Resources */,
+				FD78A2532F60CC4600473C99 /* icon-ios-32x24@3x.png in Resources */,
+				FD78A2542F60CC4600473C99 /* icon-ios-27x20@3x.png in Resources */,
+				FD78A2552F60CC4600473C99 /* icon-iphone-29x29@3x.png in Resources */,
+				FD78A2562F60CC4600473C99 /* icon-ipad-67x50@2x.png in Resources */,
+				FD78A2572F60CC4600473C99 /* icon-ios-32x24@2x.png in Resources */,
+				FD78A2582F60CC4600473C99 /* Contents.json in Resources */,
+				FD78A2592F60CC4600473C99 /* icon-iphone-60x45@3x.png in Resources */,
+				FD78A25A2F60CC4600473C99 /* icon-ios-27x20@2x.png in Resources */,
+				FD78A25B2F60CC4600473C99 /* icon-ipad-29x29@2x.png in Resources */,
+				FD78A25C2F60CC4600473C99 /* icon-iphone-29x29@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,13 +473,17 @@
 		90C805B31FB415C1009A763C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = "transplantstickers StickerPackExtension/Info.plist";
+				MARKETING_VERSION = 1.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -295,13 +491,16 @@
 		90C805B41FB415C1009A763C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = "transplantstickers StickerPackExtension/Info.plist";
+				MARKETING_VERSION = 1.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -309,14 +508,17 @@
 		90C805B71FB415C1009A763C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = transplantstickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
-				MARKETING_VERSION = 1.3;
+				MARKETING_VERSION = 1.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -324,14 +526,16 @@
 		90C805B81FB415C1009A763C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 4;
 				INFOPLIST_FILE = transplantstickers/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
-				MARKETING_VERSION = 1.3;
+				MARKETING_VERSION = 1.5;
 				PRODUCT_BUNDLE_IDENTIFIER = com.transplanttools.transplantstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
