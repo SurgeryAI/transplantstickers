@@ -107,7 +107,8 @@
     },
     {
       "filename" : "icon-ios-1024x1024.png",
-      "idiom" : "ios-marketing",
+      "idiom" : "universal",
+      "platform" : "ios",
       "scale" : "1x",
       "size" : "1024x1024"
     },
@@ -308,6 +309,7 @@
       "filename" : "icon-watchos-1024x1024.png",
       "idiom" : "universal",
       "platform" : "watchos",
+      "scale" : "1x",
       "size" : "1024x1024"
     }
   ],
